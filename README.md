@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-:computer: **IoT Backend Developer**
+:computer: **C/C++ Software Developer**
 
-:dart: I used to work as Python/Django full-stack, but now **I’m focused in real-time frameworks (FreeRTOS, mbed), C/C++, Python, communication protocols (BLE/Wi-Fi, Cellular 3G/4G LTE, Zigbee and LoRa), IoT platforms (Google Cloud, Particle, ThingsBoard) and hardware peripherals (UART, I2C, analogue to digital converters).**
+:dart: **I’m focused in real-time frameworks (FreeRTOS, mbed), C/C++, Python, communication protocols (BLE/Wi-Fi, Cellular 3G/4G LTE, Zigbee and LoRa), IoT platforms (Google Cloud, Particle, ThingsBoard) and hardware peripherals (UART, I2C, analogue to digital converters).**
 
 👯 I’m looking to collaborate and improve my skills in **projects done on microcontrollers with ARM/AVR/PIC**
 
