@@ -2,7 +2,7 @@
 
 :computer: **C/C++ Software Developer**
 
-:dart: **I’m focused in real-time frameworks (FreeRTOS, mbed), C/C++, Python, communication protocols (BLE/Wi-Fi, Cellular 3G/4G LTE, Zigbee and LoRa), IoT platforms (Google Cloud, Particle, ThingsBoard) and hardware peripherals (UART, I2C, analogue to digital converters).**
+:dart: **I’m focused in real-time frameworks (FreeRTOS, mbed), C/C++, Python, communication protocols (BLE/Wi-Fi, Cellular 3G/4G LTE, Zigbee and LoRa), IoT platforms (Google Cloud, Particle, ThingsBoard) and hardware peripherals (UART, I2C, analogue to digital converters). Besides that, I also love to collaborate with web development projects (RUby on Rails Python/Django)**
 
 👯 I’m looking to collaborate and improve my skills in **projects done on microcontrollers with ARM/AVR/PIC**
 
