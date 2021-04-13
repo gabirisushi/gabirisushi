@@ -2,9 +2,9 @@
 
 :computer: **Python and C++ Software Developer**
 
-:dart: **I’m focused in real-time frameworks (FreeRTOS, mbed), C/C++, Python, communication protocols (BLE/Wi-Fi, Cellular 3G/4G LTE, Zigbee and LoRa), IoT platforms (Google Cloud, Particle, ThingsBoard) and hardware peripherals (UART, I2C, analogue to digital converters). Besides that, I also love to collaborate with web development projects (Python/Django)**
+:dart: **I’m focused in real-time frameworks (FreeRTOS, mbed), C/C++, Python, communication protocols (BLE/Wi-Fi, Cellular 3G/4G LTE, Zigbee and LoRa), IoT platforms (Google Cloud, Particle, ThingsBoard) and hardware peripherals (UART, I2C, analogue to digital converters).**
 
-:mag_right: **Frameworks: Django-REST, Vue.js, React.js**
+:mag_right: **Web-development techs: Python/Django, HTML + CSS, vanilla JS, React.js, SQL and PostgreSQL**
 
 :herb: **Env: Linux (Ubuntu), Windows**
 
@@ -14,3 +14,4 @@
 &nbsp;
 
 :orange_heart: Are you a woman/non-binary person and is interested in starting your journey with programming in a friendly and supportive environment? Check <a href="https://djangogirls.org/" rel="nofollow"><em>Django Girls</em></a>, <a href="https://www.pinkprogramming.se/en/" rel="nofollow"><em>Pink Programming</em></a>, <a href="https://anitab.org/" rel="nofollow"><em>AnitaB.org</em></a> or reach me out!
+
