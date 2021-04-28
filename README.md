@@ -4,7 +4,7 @@
 
 :dart: **I’m focused in real-time frameworks (FreeRTOS, mbed), C/C++, Python, communication protocols (BLE/Wi-Fi, Cellular 3G/4G LTE, Zigbee and LoRa), IoT platforms (Google Cloud, Particle, ThingsBoard) and hardware peripherals (UART, I2C, analogue to digital converters).**
 
-:mag_right: **Web-development techs: Python/Django, HTML + CSS, vanilla JS, React.js, SQL and PostgreSQL**
+:mag_right: **Web-development techs: Python/Django, HTML + CSS, vanilla JS, React.js, MySQL**
 
 :herb: **Env: Linux (Ubuntu), Windows**
 
