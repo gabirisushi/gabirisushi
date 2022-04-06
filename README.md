@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💻 **C++ Embedded Developer & Python Backend Developer**
+💻 **C++ Software Engineer & Python Backend Developer**
 
 🎯 **I’m focused in real-time frameworks (FreeRTOS, mbed), C++, Python, communication protocols (BLE/Wi-Fi, Cellular 3G/4G LTE), IoT platforms (Google Cloud, Particle, ThingsBoard) and hardware peripherals (UART, I2C, analogue to digital converters).**
 
